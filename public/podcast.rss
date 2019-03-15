@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+>
+<channel>
+  <title>RickvanV doet 2</title>
+  <link>https://www.nporadio2.nl/rickvanvdoet2/</link>
+  <description>Rick van Velthuysen presenteert met sidekick Erik-Jan Rosendahl voor PowNed op NPO Radio 2 'RickvanV doet 2'.</description>
+
+  <language>nl-NL</language>
+  <category>Comedy</category>
+  <image>
+    <url>https://pmklaassen.com/rickvanv-doet-2/image.jpg</url>
+    <title>RickvanV doet 2</title>
+    <link>https://www.nporadio2.nl/rickvanvdoet2/</link>
+  </image>
+
+  <itunes:summary><![CDATA[Rick van Velthuysen presenteert met sidekick Erik-Jan Rosendahl voor PowNed op NPO Radio 2 'RickvanV doet 2'.]]></itunes:summary>
+  <itunes:explicit>yes</itunes:explicit>
+  <itunes:image href="https://pmklaassen.com/rickvanv-doet-2/image.jpg" />
+  <itunes:category text="Comedy" />
+  <itunes:author>NPO Radio 2</itunes:author>
+  <itunes:owner>
+    <itunes:email>podcast@pmklaassen.com</itunes:email>
+    <itunes:name>PMK</itunes:name>
+  </itunes:owner>
+
+  <atom:link href="https://pmklaassen.com/rickvanv-doet-2/podcast.rss" rel="self" type="application/rss+xml" />
+
+  <item>
+    <title>Uitzending woensdag 13 maart 2019</title>
+    <link>https://www.nporadio2.nl/rickvanvdoet2/gemist/uitzending/259382/13-03-2019</link>
+    <enclosure url="https://radiobox2.omroep.nl/broadcaststream/file/545510.mp3" type="audio/mp3" />
+    <guid isPermaLink="true">https://www.nporadio2.nl/rickvanvdoet2/gemist/uitzending/259382/13-03-2019</guid>
+    <pubDate>Wed, 13 Mar 2019 04:00:00 +0100</pubDate>
+    <itunes:duration>2:00:00</itunes:duration>
+  </item>
+</channel>
+</rss>
