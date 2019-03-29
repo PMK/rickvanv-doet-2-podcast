@@ -11,7 +11,7 @@ This will run the cronjob once every Monday to Thursday at 7am:
 ```
 $ sudo crontab -e
 
-0 7 * * 1-4 ./update-podcast-feed.sh >/dev/null 2>&1
+0 7 * * 2-5 ./update-podcast-feed.sh >/dev/null 2>&1
 ```
 
 # DEPENDENCIES
